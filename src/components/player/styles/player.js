@@ -53,7 +53,7 @@ export const Close = styled.button`
         transform: rotate(45deg);
     }
     &:after {
-        transform: rotate(-45deg);
+        transform: rotate(-90deg);
     }
 `;
 
