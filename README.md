@@ -4,5 +4,5 @@ Included features: sign in and sign out with Firebase connectivity, video player
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img src="/images/readme/signin.png">
 </p>
