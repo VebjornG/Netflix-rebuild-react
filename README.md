@@ -23,7 +23,7 @@ Choose user            |  Video slider and selector
 # Firebase Connectivity
 
 In order to authenticate the user I use Firebase as the backend which can be set up [here](https://firebase.google.com/). 
-The resulting Firebase configuration looks something like the (incomplete) example below in which `const` is to be included in 
+The resulting Firebase configuration looks something like the (incomplete) example below in which `config` is to be included in 
 `/src/index.js`.
 
 ```javascript
