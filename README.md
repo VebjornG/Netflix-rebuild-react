@@ -23,19 +23,19 @@ Choose user            |  Video slider and selector
 # Firebase Connectivity
 
 In order to authenticate the user I use Firebase as the backend which can be set up [here](https://firebase.google.com/). 
-The resulting Firebase configuration looks something like the (incomplete) example below in which `config` is to be included in 
+The resulting Firebase configuration looks something like the (INCOMPLETE) example below in which `config` is to be included in 
 `/src/index.js`.
 
 ```javascript
 // Your web app's Firebase configuration
 const config = {
-  apiKey: 'AIzaSyDAU60M2FDHNsYt9uGMs',
+  apiKey: 'AIzaSyDAU60M2FDHNsY',
   authDomain: 'netflix.firebaseapp.com',
   databaseURL: 'https://netflix.firebaseio.com',
   projectId: 'netflix',
   storageBucket: 'netflix.appspot.com',
-  messagingSenderId: '59057580',
-  appId: '1:59057581:web:f809092b6cd5530',
+  messagingSenderId: '590',
+  appId: '1:59057581:web:f8090',
 };
 // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
